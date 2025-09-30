@@ -54,7 +54,7 @@ class HomePage extends StatelessWidget {
                   ),
                 ),
               ),
-              Image.asset("assets/images/1.png", height: 30.h),
+           
               Row(
                 mainAxisAlignment: MainAxisAlignment.spaceBetween,
                 children: [
